@@ -1,0 +1,7 @@
+"Quote Id",Opportunity,Status,"Order Type",Pricebook,"Line #","Item #",Qty,Duration,UOM,Sku,Product,List,Discount,"Discount Amount",Credit,"Discounted Credit",Unit,Extended
+"FED 27-02-2024 - Feb/27/2024 - 006WI000001tuc5","FED 27-02-2024 [006WI000001tuc5]","Approved Quote",standard,"RIVERBED-MASTER-PRICE-LIST ($)",1,1,1,0,Ea,"PARENT: LIC-SCPS-006-E","Evaluation SCPS License on EX1160, SFED2100/2200",$0,,,,,,
+"FED 27-02-2024 - Feb/27/2024 - 006WI000001tuc5","FED 27-02-2024 [006WI000001tuc5]","Approved Quote",standard,"RIVERBED-MASTER-PRICE-LIST ($)",2,2,1,0,YR,"PARENT: MNT-LIC-SCPS-006","Support SCPS License on 1160/SFED2100/2200 Series","$1,320.00",10.00%,$132.00,$0,$0,"$1,188.00","$1,188.00"
+,,,,,,,,,,,,,,,,,Total,"$1,188.00"
+
+"Export Date: 2024-02-27 09:55:29"
+"This is an Excel based list of products.  The PDF files quote should be considered the official Riverbed Quote, which includes the Terms and Conditions."
